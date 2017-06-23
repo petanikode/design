@@ -10,4 +10,4 @@ Dikelola oleh seniman amatir: [Ardianta Pargo](http://ardiantapargo.deviantart.c
 ## Aturan Pakai
 
 - Kamu boleh menggunakan desain ini untuk kepentingan bukan komersial.
-- Kamu tidak boleh mengklaim desain ini milikmu.
+- Kamu tidak boleh mengklaim desain ini milikmu :P.
