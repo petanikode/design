@@ -22,5 +22,5 @@ desain:
 
 ## Ada pertanyaan?
 
-Silahkan buka atau buat [issue baru] pada repositori ini, atau hubungi
+Silahkan buka atau buat [issue baru](https://github.com/petanikode/design/issues) pada repositori ini, atau hubungi
 saya melalui email: `dian@petanikode.com`.
